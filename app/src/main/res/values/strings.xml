@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Calculador DNI</string>
+
+    <string name="dninumber">Número DNI</string>
+    <string name="dniletter">Letra DNI</string>
+
+    <string name="number20">Debes escribir 8 números más</string>
+    <string name="remainingNumbers">Debes escribir %1$d números más</string>
+    <string name="calculatedDni">DNI: %1$d%2$s</string>
+
+    <string name="letter">Ahora escribe una letra</string>
+    <string name="valid">DNI válido</string>s
+    <string name="invalid">DNI inválido</string>
+    <string name="letterdni">Letra del DNI:</string>
+
+    <string name="tab_text_1">Calculador</string>
+    <string name="tab_text_2">Validador</string>
+
+    <string name="ad">ca-app-pub-your-id</string>
+</resources>
