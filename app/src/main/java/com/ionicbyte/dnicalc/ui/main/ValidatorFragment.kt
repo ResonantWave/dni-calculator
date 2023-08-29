@@ -22,7 +22,7 @@ class ValidatorFragment : Fragment() {
     ): View? {
         val view = inflater.inflate(R.layout.fragment_validator, container, false)
 
-        MobileAds.initialize(activity) {}
+        MobileAds.initialize(requireActivity().baseContext) {}
         val adView = view?.findViewById<View>(R.id.adView) as AdView
         val adRequest = AdRequest.Builder().build()
         adView.loadAd(adRequest)
