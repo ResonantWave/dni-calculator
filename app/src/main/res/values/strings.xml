@@ -16,5 +16,9 @@
     <string name="tab_text_1">Calculador</string>
     <string name="tab_text_2">Validador</string>
 
+    <string name="calculate">Calcular</string>
+
+
     <string name="ad">ca-app-pub-7121430753816201/6915366408</string>
+    <string name="interstitialId">ca-app-pub-7121430753816201/9568371472</string>
 </resources>
